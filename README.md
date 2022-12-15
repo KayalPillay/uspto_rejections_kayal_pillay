@@ -6,6 +6,7 @@ Package to interact with the USPTO Rejections API (https://developer.uspto.gov/a
 
 ```bash
 $ pip install uspto_rejections_kayal_pillay
+from uspto_rejections_kayal_pillay import uspto_rejections_kayal_pillay as us
 ```
 
 ## Usage
